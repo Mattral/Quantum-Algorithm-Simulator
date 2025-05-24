@@ -27,7 +27,7 @@ This Quantum Algorithm Simulator is an educational tool that helps you understan
 
 1. **Clone the repository**
    ```bash
-   git clone <YOUR_GIT_URL>
+   git clone https://github.com/Mattral/Quantum-Algorithm-Simulator.git
    cd <YOUR_PROJECT_NAME>
    ```
 
