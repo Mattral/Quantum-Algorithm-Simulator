@@ -1,4 +1,3 @@
-
 # Quantum Algorithm Simulator 🌌
 
 An interactive, educational quantum computing simulator designed to make quantum mechanics accessible to high school students and beginners. This web-based simulator provides visual representations of quantum states, interactive circuit building, and step-by-step explanations of quantum concepts.
